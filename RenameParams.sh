@@ -49,7 +49,7 @@ count=0;
        v='__VALUE__'
 
        file="${nn}deploy.yml"
-       cp tmplet.txt  $file
+       cp resources/templet.txt  $file
 
        echo "The new file name: --------" $file
 
