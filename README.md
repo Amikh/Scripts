@@ -1,2 +1,2 @@
 # Scripts
-Linux scripts for everything 
+Bash scripts
