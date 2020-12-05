@@ -1,0 +1,3 @@
+tcp://github.com:443
+tcp://google.com:443
+tcp://bitbucket.com:443

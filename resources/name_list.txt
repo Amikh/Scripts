@@ -1,0 +1,3 @@
+kuberhealthy-github-reachable
+kuberhealthy-google-reachable
+kuberhealthy-bitbucket-reachable
